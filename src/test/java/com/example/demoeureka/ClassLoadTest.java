@@ -16,8 +16,10 @@ public class ClassLoadTest {
         System.out.println("test.y="+test.y);
         y++;
         System.out.println("test.y2="+test.y);
+        System.out.println("test.y2="+test.y);
         //test.x=1
         //test.y=0
         //test.y2=1
+        //sfjslfjsdfsfd
     }
 }
