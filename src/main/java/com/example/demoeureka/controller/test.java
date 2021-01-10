@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
 public class test {
     @GetMapping("/test/sayHello")
     public String sayHello() {
-        return "===============hello==============\n";
+        return "===============hello demo-eureka==============\n";
     }
 }
 
